@@ -1,0 +1,17 @@
+﻿{
+  "Descriptor": {
+    "UId": "0b1edb27-4b23-494f-abfb-0b79e33c4224",
+    "Name": "UsrRealty",
+    "Type": 1,
+    "Maintainer": "Customer",
+    "ProjectPath": "Files/UsrRealty.csproj",
+    "DependsOn": [
+      {
+        "UId": "3a71e376-9ac3-3049-c62b-9c43b9abe054",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtCoreBase",
+        "Type": 1
+      }
+    ]
+  }
+}
